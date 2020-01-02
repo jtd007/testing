@@ -66,7 +66,7 @@ li a:hover:not(.active) {
   border-radius: 15px;
   border: 2px solid gray;
   padding: 15px; 
-  width: 100%;
+  width: 485px;
   /* To move H1 up*/
   /*padding-top: 0%;*/
   
@@ -107,6 +107,7 @@ h1{
   .wrapper{
     /*display: grid;
     grid-template-columns: 0.5fr 2fr;*/
+    width: 100%;
   }
 
   .company-info h3, .company-info ul, .brand{
