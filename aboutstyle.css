@@ -72,10 +72,6 @@ li a:hover:not(.active) {
   
 }
 
-.wrapper > *{
-  
-}
-
 .company-info{
   background: white;
 }
@@ -113,14 +109,9 @@ h1{
     grid-template-columns: 0.5fr 2fr;*/
   }
 
-  .wrapper > *{
-   
-  }
-
   .company-info h3, .company-info ul, .brand{
     text-align: left;
     
- 
   }
 
   h1{
